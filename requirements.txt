@@ -1,1 +1,7 @@
 python-pptx
+streamlit
+opencv-python-headless
+numpy
+pandas
+scikit-image
+pillow
